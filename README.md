@@ -23,7 +23,8 @@ TyangyangT@163.com
 
 制作完成！！！  
 OK了。成功使用！  
-四，使用本开源软件发生的 ***一切后果自负，发生误删文件的，与本作者无关！！！***
+四，使用本开源软件发生的 ***一切后果自负，发生误删文件的，与本作者无关！！！***   
+    Use this open source software occurs, all consequences are at your own risk, the occurrence of deleted files, and the author has nothing to do! ! !
 ## 更新日志  
 ### V1.0-2023/4/6
 这是Moniroring experts（监测专家）初代版本，使用Java编写，使用前请先安装Java17，谢谢。  
